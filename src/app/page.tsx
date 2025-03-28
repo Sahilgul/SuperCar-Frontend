@@ -419,7 +419,7 @@ export default function LuxuryCarDealershipChat() {
               </button>
             </form>
             <div className="mt-2 text-center">
-              <p className="text-xs text-gray-400">Powered by Adeel Atta</p>
+              <p className="text-xs text-gray-400">Powered by ML Engineer</p>
             </div>
           </div>
         </div>
